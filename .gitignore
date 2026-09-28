@@ -1,0 +1,11 @@
+# Dataset files
+data/
+python/sales_data.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+python/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
